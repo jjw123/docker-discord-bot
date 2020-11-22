@@ -1,0 +1,16 @@
+{
+  "name": "docker-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for Docker Control",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jjw123",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "node-docker-api": "^1.1.22"
+  }
+}
